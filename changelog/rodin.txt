@@ -2,6 +2,13 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 10/11/2025
+===============
+- Synced with latest source
+- add htsr qs tile ( name the title touch boost )
+- fix flickering when enable blur ( app drawer and recent apps )
+- Minor changes and improvements
+
 Date - 01/11/2025
 ===============
 - Synced with latest source
