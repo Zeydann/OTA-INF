@@ -2,6 +2,13 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 02/12/2025
+===============
+- Synced with latest source
+- Shipped miuicamera (1080p60/4k60 dies sadly)
+- Refactor automatic brightness values
+- Minor changes and improvements
+
 Date - 09/11/2025
 ===============
 - Synced with latest source
