@@ -5,6 +5,12 @@ Device maintainer: Zeyy
 Date - 04/12/2025
 ===============
 - Synced with latest source
+- Fixed white screen by disabling unsupported X-Reality display engine
+- Minor changes and improvements
+
+Date - 04/12/2025
+===============
+- Synced with latest source
 - Fix Bluetooth calls issue ( Gmeet, Discord, WhatsApp, etc)
 - Fix Front Camera issue (Gmeet, Discord, etc)
 - Minor changes and improvements
