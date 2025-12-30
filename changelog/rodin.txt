@@ -2,6 +2,19 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 30/12/2025
+===============
+- Synced with latest source
+- Initial A16 QPR1 release
+- Switch back to QTI vibrator
+- Added haptic strength control
+- Shipped eng-preloader
+- Shipped fingerprint calibration test
+- Separated 2,4/5Ghz hotspot settings
+- Drop MiuiCamera
+- Added Basic Call Recording 
+- Minor changes and improvements
+
 Date - 04/12/2025
 ===============
 - Synced with latest source
