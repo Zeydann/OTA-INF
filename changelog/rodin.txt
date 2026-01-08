@@ -2,6 +2,16 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 08/01/2026
+===============
+- Synced with latest source
+- Add more actions for powerhint
+- powerhint: End INTERACTION hint on EXPENSIVE_RENDERING
+- Switch architecture to armv9-a
+- Import system NPU libs
+- Re-enable GED MTK
+- Minor changes and improvements
+
 Date - 30/12/2025
 ===============
 - Synced with latest source
