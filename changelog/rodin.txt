@@ -2,6 +2,14 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 20/01/2026
+===============
+- Synced with latest source
+- Introduce Display Saturation Service and TileUtils
+- Set debug.sf.disable_client_composition_cache to 1
+- enable blur by default
+- Minor changes and improvements
+
 Date - 08/01/2026
 ===============
 - Synced with latest source
