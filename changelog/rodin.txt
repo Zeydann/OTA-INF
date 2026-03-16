@@ -2,6 +2,18 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 16/03/2026
+===============
+- Synced with latest source
+- Ensure 1.5 GB free space before creating zram backing device
+- add filecache_min_kb tuning
+- Adjust lmkd kill timeout
+- Set lmk stall_limit_critical threshold
+- Enable speaker calibration and CIT application ( Settings -> About phone )
+  ONLY use CIT for Fingerprint and Speaker Calibration.
+- drop Display Saturation Service
+- Minor changes and improvements
+
 Date - 21/01/2026
 ===============
 - Synced with latest source
