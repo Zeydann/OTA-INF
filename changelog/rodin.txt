@@ -2,6 +2,16 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 05/05/2026
+===============
+- Synced with latest source
+- Resolve charging time remaining
+- Import phase offsets from Motorola
+- parts: add Core Control
+- overlay: add battery cycle count
+- Revert "rodin: powerhint: Switch to GED GPU frequency control"
+- Minor changes and improvements
+
 Date - 03/04/2026
 ===============
 - Synced with latest source
