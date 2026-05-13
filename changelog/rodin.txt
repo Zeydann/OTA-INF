@@ -2,6 +2,17 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 13/05/2026
+===============
+- Synced with latest source
+- Drop ViperFX
+- UDFPS: Fix onFingerDown() race issue
+- UDFPS: Handle extCmd function
+- Update thermal configuration
+- Enable L2CAP and A2DP
+- Add CIT back
+- Minor changes and improvements
+
 Date - 07/05/2026
 ===============
 - Synced with latest source
