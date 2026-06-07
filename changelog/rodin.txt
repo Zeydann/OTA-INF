@@ -2,6 +2,16 @@ Device: Poco x7 PRO
 Device code name : rodin
 Device maintainer: Zeyy
 
+Date - 07/06/2026
+===============
+- Synced with latest source
+- rodin: Import missing Dolby configuration files
+- rodin: init: rm package cache on early boot
+- rodin: overlay: Disable Bluetooth by Default
+- rodin: touchsampling: add per-app touch boost support
+- rodin: GameBar: Improve app selector UI and app management
+- Minor changes and improvements
+
 Date - 13/05/2026
 ===============
 - Synced with latest source
